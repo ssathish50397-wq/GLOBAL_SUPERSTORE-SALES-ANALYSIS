@@ -16,15 +16,16 @@
 
 **📁 Dataset Details**
 
-| Field     | Description                                                                                                                                       |
+ | Field     | Description                                                                                                                                       |
 
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+ | --------- | ---------------------------------------------------------------------------------------------------------------------------  --------------------- |
 
-| File Name | global superstore sales.pbix                                                                                                                      |
+ | File Name | global superstore sales.pbix                                                                                                                      |
 
-| Data Type | Sales Transactions                                                                                                                                |
+ | Data Type | Sales Transactions                                                                                                                                |
 
-| Columns   | Order ID, Order Date, Ship Date, Customer Name, Segment, Country/Region, Product Name, Category & Sub-Category, Sales, Quantity, Discount, Profit |
+ | Columns   | Order ID, Order Date, Ship Date, Customer Name, Segment, Country/Region, Product Name, Category & Sub-Category, Sales,    
+ Quantity, Discount, Profit |
 
 **📊 Key Features**
 
@@ -42,7 +43,7 @@
 
 - 👥 Customer Insights	Customer segmentation and behavior
 
-** 🛠️ Tools & Technologies**
+**🛠️ Tools & Technologies**
 
 - Power BI
 
