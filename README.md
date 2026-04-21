@@ -1,3 +1,5 @@
+**#📊 Global Superstore Sales Analysis (Power BI)**
+
 **📌 Project Overview**
 
 - This project presents an interactive Sales Analysis Dashboard built using Power BI. It analyzes global superstore data to uncover key business insights such as sales trends, profit distribution, and customer behavior.
